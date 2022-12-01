@@ -8,7 +8,6 @@ export default function Dashboard() {
   function handleLogout() {
 
   }
-  
     return (
     <>
     <Card>
