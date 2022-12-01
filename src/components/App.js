@@ -9,7 +9,6 @@ import PrivateRoute from "./PrivateRoute"
 import ForgotPassword from "./ForgotPassword"
 import UpdateProfile from "./UpdateProfile"
 
-
 function App() {
   return (
     <AuthProvider>
